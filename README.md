@@ -1,7 +1,10 @@
 # caffe_multilabel
 1.download bvlc_reference_caffenet.caffemodel to models/bvlc_reference_caffenet
+
 2.copy data to data/pascal/itugo_doudou
+
 3.use demo:examples/caffe_multilabel_pascal.py
+
 4.set path on demo&&examples/pycaffe/layers/itugo_doudou_multilabel_datalayers.py
 
 # Caffe
