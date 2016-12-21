@@ -1,0 +1,10 @@
+/home/xiaotian/star_reco/star_faces_small/226_尼坤/226_尼坤_0.992717_106974.jpg,226,400,406,411,412
+/home/xiaotian/star_reco/star_faces_small/399_女/399_女_0.990731_265462.jpg,399,401,406,411,412
+/home/xiaotian/star_reco/star_faces_small/11_安吉丽娜朱莉/11_安吉丽娜朱莉_0.997204_25834.jpg,11,401,407,411,412
+/home/xiaotian/star_reco/star_faces_small/308_吴彦祖/308_吴彦祖_0.999032_42643.jpg,308,400,407,411,412
+/home/xiaotian/star_reco/star_faces_small/203_陆星材/203_陆星材_0.976661_413728.jpg,203,400,406,411,412
+/home/xiaotian/data/emotion_small/0_smile/0_smile_0.994241_4548.jpg,410,399,401,406,412
+/home/xiaotian/star_reco/star_faces_small/263_宋智孝/263_宋智孝_0.996503_173862.jpg,263,401,406,411,413
+/home/xiaotian/star_reco/star_faces_small/345_颖儿/345_颖儿_0.996511_419988.jpg,345,401,406,411,412
+/home/xiaotian/star_reco/star_faces_small/71_都暻秀/71_都暻秀_0.996554_461474.jpg,71,400,405,410,412
+/home/xiaotian/star_reco/star_faces_small/331_玄彬/331_玄彬_0.996668_377914.jpg,331,400,406,411,412
